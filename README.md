@@ -15,7 +15,7 @@
 >>Chat: <br/><br/>
 >>Database: ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)<br/><br/>
 >>Web development: ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  <br/><br/>
->>Modeling: ![Figma](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTME4gWNF5Bde4Fo7ou2ZcsNqnsj-HSfAIuFw&s)  
+>>Modeling:  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LukeTruongITBA&theme=moltack&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LukeTruongITBA&theme=moltack&hide_border=false)<br/>
