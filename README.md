@@ -46,14 +46,14 @@
     <tr>
         <td style="text-align: center; vertical-align: middle;">
             Get started with Jira Work Management <br/>
-            <a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+            <a href="https://university.atlassian.com/student/award/MNgLBhJNh2oDGHD9tnjrwQyh" target="_blank">
                 View Certificate
             </a> 
     </tr>
       <tr>
     <td style="text-align: center; vertical-align: middle;">
         Get the most out of Jira Service Management <br/>
-        <a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+        <a href="https://university.atlassian.com/student/award/qVUyXDN9wN1Nz2qEePRTb4sS" target="_blank">
             View Certificate
         </a> 
     </td>
@@ -63,7 +63,7 @@
 </td>
 <td style="text-align: center; vertical-align: middle">
     Beginner's Guide to Agile in Jira Badge <br/>
-    <a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+    <a href="https://university.atlassian.com/student/award/TWSk6yn94S7zoTSq7WNzEjod" target="_blank">
         View Certificate
     </a> 
 </td> 
@@ -78,7 +78,7 @@ Certificate
 </td>
 <td>
 Get the most out of Confluence <br/>
-<a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+<a href="https://university.atlassian.com/student/award/EqgPizmQteFj91aqVUTL6amz" target="_blank">
     View Certificate
 </a>  
 </td>
@@ -94,14 +94,14 @@ Get the most out of Confluence <br/>
     </td>
     <td>
 DevOps 101: What is DevOps? <br/>
-<a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+<a href="https://www.linkedin.com/in/truongtanlocbf/" target="_blank">
     View Certificate
     </td>
 </tr>
 <tr style="text-align: center; vertical-align: middle">
     <td>
-        Jira software to project management by Software Testing Mentor <br/>
-        <a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+Jira software to project management by Software Testing Mentor <br/>
+        <a href="https://cursa.app/en/my-certificate/certd66b1deb54171b3cf22d36a38f0ea36e" target="_blank">
             View Certificate
             </td>
 </tr>
@@ -116,20 +116,20 @@ DevOps 101: What is DevOps? <br/>
 </td>
 <td >
 Business Process Modeling <br/>
-<a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+<a href="https://www.linkedin.com/learning/certificates/1bee3523bc42cd180db8d2c0a1a09c08a3238659b95d665c8145660081a1ed4f?trk=share_certificate" target="_blank">
     View Certificate
 </td>
 </tr>
 <td style="text-align: center; vertical-align: middle">
 Requirements Elicitation and Analysis <br/>
-<a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+<a href="https://www.linkedin.com/learning/certificates/22df822ab9a4d5dbd3f8a9421dc8ef0adca24157278e0b3ebd99ef4f24fe08f4?trk=share_certificate" target="_blank">
     View Certificate
 
 </td>
 <tr>
 <td style="text-align: center; vertical-align: middle">
     Requirements Elicitation for Business Analysts: Interviews <br/>
-<a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+<a href="https://www.linkedin.com/learning/certificates/0f64ddab5f11034df8792914152b6e174e62db7ccd917ec6601bcc17c2314d2e?trk=share_certificate" target="_blank">
     View Certificate
 </td>
 </tr>
@@ -137,14 +137,14 @@ Requirements Elicitation and Analysis <br/>
 <tr>
     <td style="text-align: center; vertical-align: middle">
         Persuading others <br/>
-        <a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+        <a href="https://www.linkedin.com/learning/certificates/8fa78e36e1c82bfdcb8e450c7097cf917ead4623ee2af6273040a4e726116b99" target="_blank">
             View Certificate
         </td>
 </tr>
 <tr>
     <td style="text-align: center; vertical-align: middle">
         What Is Business Analysis? <br/>
-        <a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+        <a href="https://www.linkedin.com/learning/certificates/dcf762e1f39524667857bcc8a9d31b00e7170958035720efda2c00d1f20d9f44" target="_blank">
             View Certificate
         </td>
 </tr>
@@ -154,14 +154,14 @@ Requirements Elicitation and Analysis <br/>
     </td>
     <td>
         Async Collaboration for Distributed Teams Badge <br/>
-        <a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+        <a href="https://university.atlassian.com/student/award/SmsGxZxYeFd8nT6Er3bADfM7" target="_blank">
             View Certificate
     </td>
 </tr>
 <tr style="text-align: center; vertical-align: middle">
     <td>
 How to Build Strategic Guidance Badge <br/>
-<a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+<a href="https://university.atlassian.com/student/award/PJ7VV4XAKxB39RYhzgRageWS" target="_blank">
     View Certificate
     </td>
 </tr>
@@ -169,20 +169,20 @@ How to Build Strategic Guidance Badge <br/>
 <tr style="text-align: center; vertical-align: middle">
     <td>
 How to Run Effective Meetings Badge <br/>
-<a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+<a href="https://university.atlassian.com/student/award/gWtWaEANadKYYzaatPyG8ZGT" target="_blank">
     View Certificate
     </td>
 </tr>
 <tr style="text-align: center; vertical-align: middle">
     <td>
 How to Shape Effective Teams Badge <br/>
-<a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+<a href="https://university.atlassian.com/student/award/PxotRNCNyT7WUyLRxmVCAwe1" target="_blank">
     View Certificate
     </td>
 </tr>
       <!--Postman-->
 <tr style="text-align: center; vertical-align: middle">
-    <td rowspan="2" >
+    <td rowspan="2">
 <img src="https://logodix.com/logo/2062867.gif"
 width="200" height="auto">
     </td>
@@ -191,7 +191,7 @@ width="200" height="auto">
     </td>
     <td>
 Postman API Fundamentals Student Expert <br/>
-<a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+<a href="https://badgr.com/print-certificate/672908a0ff797d74eed43acb" target="_blank">
     View Certificate
     </td>
 </tr>
@@ -202,6 +202,8 @@ Postman API Fundamentals Student Expert <br/>
     <td style="text-align: center; vertical-align: middle">
 NUTERIZE <br/>
 <a href="https://replit.com/@030238220119/AI-Text-Summarizer-App-Starter-Template"><p><b>Check out the project via Replit!</b></p></a>
+
+    </td>
 </tr>
       <!--Loom-->
 <tr style="text-align: center; vertical-align: middle">
@@ -214,7 +216,7 @@ width="150" height="auto">
     </td>
     <td>
 Get the most out of Loom <br/>
-<a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+<a href="https://university.atlassian.com/student/award/zPSKyjYXUe1uZ2v87RW9Np6f" target="_blank">
     View Certificate 
     </td>
 </tr>
@@ -228,8 +230,8 @@ Get the most out of Loom <br/>
             Certificate
         </td>
         <td>
-    Get the most out of Loom <br/>
-    <a href="https://cdn.prod.website-files.com/659bd602c8644fb17135bbe7/670d2d35a1c756b8aa899ecc_Swarmit%20Tools%20-%20Atlassian%20Rovo.png" target="_blank">
+    Get the most out of Rovo <br/>
+    <a href="https://university.atlassian.com/student/award/998bdGcyyusGzmpo5eoRnVoC" target="_blank">
         View Certificate 
         </td>
     </tr>
@@ -244,13 +246,14 @@ Get the most out of Loom <br/>
         </td>
         <td>
     Microsoft Office Specialist: Microsoft Office 2019 (MOS) <br/>
-    <a href="https://cdn.prod.website-files.com/659bd602c8644fb17135bbe7/670d2d35a1c756b8aa899ecc_Swarmit%20Tools%20-%20Atlassian%20Rovo.png" target="_blank">
+    <a href="https://www.linkedin.com/in/truongtanlocbf/" target="_blank">
         View Certificate 
         </td>
     </tr>
     </table>
 </body>
 </html>
+
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/truongtanlocbf/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/truongtanlocbf) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/locdubit/)
 
