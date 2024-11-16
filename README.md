@@ -2,6 +2,255 @@
 # 💫 About Me:
 🎯 I’m currently working on: Enhancing my skills as an IT Business Analyst Intern by contributing to projects focused on requirement gathering and process analysis.<br><br>🤝 I’m looking to collaborate on: Business analysis projects that involve data visualization, process mapping, or any IT initiatives requiring analytical insights.<br><br>🙏 I’m looking for help with: Learning advanced techniques in database management (DBeaver) and mastering diagramming tools like Mermaid for effective documentation.<br><br>🌱 I’m currently learning: The core practices of IT Business Analysis, including requirement elicitation, process modeling, and stakeholder communication.<br><br>💬 Ask me about: How my experience in Email Marketing helped me discover my passion for IT Business Analysis and problem-solving in the tech space.<br><br>⚡ Fun fact: I enjoy turning complex business problems into streamlined processes and am always eager to explore new tools and methodologies to improve efficiency!
 
+## My Self-learning TESTIMONIAL:
+<!DOCTYPE html>
+<html>
+<head>
+  
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <th>IT BA TOOLKITS</th>
+            <th>GENRE</th>
+            <th>TESTIMONIAL</th>
+        </tr>
+        <!--Trello-->
+        <tr style="text-align: center; vertical-align: middle;">
+            <td>
+                <img src="https://b737331.smushcdn.com/737331/wp-content/uploads/2016/04/Trello-Icon.gif?lossy=2&strip=1&webp=1" 
+                width="160" height="auto" al>
+            </td>
+            <td>Certificate</td>
+            <td>
+                Get the most out of Trello <br/>
+                <a href="https://university.atlassian.com/student/award/gBb3sPqPip3rkTa6YR748YTc" target="_blank">
+                    View Certificate
+                </a>
+            </td>
+        </tr>
+      <!--Jira-->
+      <tr style="text-align: center; vertical-align: middle;">
+        <td rowspan="4">
+            <img src="https://media.licdn.com/dms/image/v2/D5622AQF6cZ6FoC20Gw/feedshare-shrink_800/feedshare-shrink_800/0/1707730068208?e=2147483647&v=beta&t=BLV1m_9rj6-xXpVHvUgu5jRU7efErt8AKDvHBj9tYw0" 
+            width="160" height="auto" al>
+        </td>
+        <td rowspan="3">Certificate</td>
+        <td>
+            Get the most out of Jira <br/>
+            <a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+                View Certificate
+            </a>
+        </td> 
+    </tr>
+    <tr>
+        <td style="text-align: center; vertical-align: middle;">
+            Get started with Jira Work Management <br/>
+            <a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+                View Certificate
+            </a> 
+    </tr>
+      <tr>
+    <td style="text-align: center; vertical-align: middle;">
+        Get the most out of Jira Service Management <br/>
+        <a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+            View Certificate
+        </a> 
+    </td>
+      </tr>
+<td style="text-align: center; vertical-align: middle">
+    Badge
+</td>
+<td style="text-align: center; vertical-align: middle">
+    Beginner's Guide to Agile in Jira Badge <br/>
+    <a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+        View Certificate
+    </a> 
+</td> 
+      <!--Confluence-->
+      <tr style="text-align: center; vertical-align: middle" >
+<td>
+    <img src="https://cdn6.aptoide.com/imgs/c/c/d/ccdad11859b1e64fcd96bbdddb25aaf7_icon.png"
+    width="100" height="auto" al>
+</td>
+<td>
+Certificate
+</td>
+<td>
+Get the most out of Confluence <br/>
+<a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+    View Certificate
+</a>  
+</td>
+      </tr>
+      <!--Azure DevOps-->
+<tr style="text-align: center; vertical-align: middle">
+    <td rowspan="2">
+        <img src="https://amaxiam.com/wp-content/uploads/unnamed.gif"
+        width="150" height="auto">
+    </td>
+    <td rowspan="2">
+        Certificate
+    </td>
+    <td>
+DevOps 101: What is DevOps? <br/>
+<a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+    View Certificate
+    </td>
+</tr>
+<tr style="text-align: center; vertical-align: middle">
+    <td>
+        Jira software to project management by Software Testing Mentor <br/>
+        <a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+            View Certificate
+            </td>
+</tr>
+      <!--BA Skill-->
+<tr  style="text-align: center; vertical-align: middle">
+<td rowspan="9">
+    <img src="https://cdn.dribbble.com/users/1523313/screenshots/13671653/media/7c52f9d4b1117aa12f3bf9f9c3b9e1aa.gif"
+    width="300" height="auto">
+</td>
+<td rowspan="5">
+    Certificate
+</td>
+<td >
+Business Process Modeling <br/>
+<a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+    View Certificate
+</td>
+</tr>
+<td style="text-align: center; vertical-align: middle">
+Requirements Elicitation and Analysis <br/>
+<a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+    View Certificate
+
+</td>
+<tr>
+<td style="text-align: center; vertical-align: middle">
+    Requirements Elicitation for Business Analysts: Interviews <br/>
+<a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+    View Certificate
+</td>
+</tr>
+
+<tr>
+    <td style="text-align: center; vertical-align: middle">
+        Persuading others <br/>
+        <a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+            View Certificate
+        </td>
+</tr>
+<tr>
+    <td style="text-align: center; vertical-align: middle">
+        What Is Business Analysis? <br/>
+        <a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+            View Certificate
+        </td>
+</tr>
+<tr style="text-align: center; vertical-align: middle">
+    <td rowspan="4">
+        Badge
+    </td>
+    <td>
+        Async Collaboration for Distributed Teams Badge <br/>
+        <a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+            View Certificate
+    </td>
+</tr>
+<tr style="text-align: center; vertical-align: middle">
+    <td>
+How to Build Strategic Guidance Badge <br/>
+<a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+    View Certificate
+    </td>
+</tr>
+</tr>
+<tr style="text-align: center; vertical-align: middle">
+    <td>
+How to Run Effective Meetings Badge <br/>
+<a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+    View Certificate
+    </td>
+</tr>
+<tr style="text-align: center; vertical-align: middle">
+    <td>
+How to Shape Effective Teams Badge <br/>
+<a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+    View Certificate
+    </td>
+</tr>
+      <!--Postman-->
+<tr style="text-align: center; vertical-align: middle">
+    <td rowspan="2" >
+<img src="https://logodix.com/logo/2062867.gif"
+width="200" height="auto">
+    </td>
+    <td>
+        Certificate
+    </td>
+    <td>
+Postman API Fundamentals Student Expert <br/>
+<a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+    View Certificate
+    </td>
+</tr>
+<tr style="text-align: center; vertical-align: middle">
+    <td>
+        Project
+    </td>
+    <td style="text-align: center; vertical-align: middle">
+NUTERIZE <br/>
+<a href="https://replit.com/@030238220119/AI-Text-Summarizer-App-Starter-Template"><p><b>Check out the project via Replit!</b></p></a>
+</tr>
+      <!--Loom-->
+<tr style="text-align: center; vertical-align: middle">
+    <td>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL4T77vQ1MbHXs6nIzio9JIZ6E53893goxPhW3upgSKZ2PVx2fses0UR4XoSi-o2xsfqA&usqp=CAU"
+width="150" height="auto">   
+    </td>
+    <td>
+        Certificate
+    </td>
+    <td>
+Get the most out of Loom <br/>
+<a href="https://university.atlassian.com/student/award/qxHpawdEG5dnrqmxrPzksduW" target="_blank">
+    View Certificate 
+    </td>
+</tr>
+      <!--Rovo-->
+      <tr style="text-align: center; vertical-align: middle">
+        <td>
+    <img src="https://cdn.prod.website-files.com/659bd602c8644fb17135bbe7/670d2d35a1c756b8aa899ecc_Swarmit%20Tools%20-%20Atlassian%20Rovo.png"
+    width="180" height="auto">   
+        </td>
+        <td>
+            Certificate
+        </td>
+        <td>
+    Get the most out of Loom <br/>
+    <a href="https://cdn.prod.website-files.com/659bd602c8644fb17135bbe7/670d2d35a1c756b8aa899ecc_Swarmit%20Tools%20-%20Atlassian%20Rovo.png" target="_blank">
+        View Certificate 
+        </td>
+    </tr>
+      <!--Microsoft Office-->
+      <tr style="text-align: center; vertical-align: middle">
+        <td>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg/648px-Microsoft_Office_logo_%282013%E2%80%932019%29.svg.png"
+    width="110" height="auto">   
+        </td>
+        <td>
+            Certificate
+        </td>
+        <td>
+    Microsoft Office Specialist: Microsoft Office 2019 (MOS) <br/>
+    <a href="https://cdn.prod.website-files.com/659bd602c8644fb17135bbe7/670d2d35a1c756b8aa899ecc_Swarmit%20Tools%20-%20Atlassian%20Rovo.png" target="_blank">
+        View Certificate 
+        </td>
+    </tr>
+    </table>
+</body>
+</html>
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/truongtanlocbf/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/truongtanlocbf) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/locdubit/)
 
