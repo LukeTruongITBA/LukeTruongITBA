@@ -200,7 +200,7 @@ Postman API Fundamentals Student Expert <br/>
         Project
     </td>
     <td style="text-align: center; vertical-align: middle">
-NUTERIZE <br/>
+NUTERIZE 🌰 <br/>
 <a href="https://replit.com/@030238220119/AI-Text-Summarizer-App-Starter-Template"><p><b>Check out the project via Replit!</b></p></a>
 
 </tr>
