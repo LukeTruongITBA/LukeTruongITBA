@@ -245,7 +245,7 @@ Get the most out of Loom <br/>
         </td>
         <td>
     Microsoft Office Specialist: Microsoft Office 2019 (MOS) <br/>
-    <a href="https://www.linkedin.com/in/truongtanlocbf/" target="_blank">
+    <a href="https://drive.google.com/drive/folders/1sSEO34MieSmCQ1qTKiKN_F1qDqAwJmHz?usp=sharing" target="_blank">
         View Certificate 
         </td>
     </tr>
