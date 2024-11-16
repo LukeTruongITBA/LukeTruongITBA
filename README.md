@@ -203,7 +203,6 @@ Postman API Fundamentals Student Expert <br/>
 NUTERIZE <br/>
 <a href="https://replit.com/@030238220119/AI-Text-Summarizer-App-Starter-Template"><p><b>Check out the project via Replit!</b></p></a>
 
-    </td>
 </tr>
       <!--Loom-->
 <tr style="text-align: center; vertical-align: middle">
@@ -253,6 +252,7 @@ Get the most out of Loom <br/>
     </table>
 </body>
 </html>
+
 
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/truongtanlocbf/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/truongtanlocbf) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/locdubit/)
