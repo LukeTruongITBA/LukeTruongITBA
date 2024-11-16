@@ -2,7 +2,7 @@
 # 💫 About Me:
 🎯 I’m currently working on: Enhancing my skills as an IT Business Analyst Intern by contributing to projects focused on requirement gathering and process analysis.<br><br>🤝 I’m looking to collaborate on: Business analysis projects that involve data visualization, process mapping, or any IT initiatives requiring analytical insights.<br><br>🙏 I’m looking for help with: Learning advanced techniques in database management (DBeaver) and mastering diagramming tools like Mermaid for effective documentation.<br><br>🌱 I’m currently learning: The core practices of IT Business Analysis, including requirement elicitation, process modeling, and stakeholder communication.<br><br>💬 Ask me about: How my experience in Email Marketing helped me discover my passion for IT Business Analysis and problem-solving in the tech space.<br><br>⚡ Fun fact: I enjoy turning complex business problems into streamlined processes and am always eager to explore new tools and methodologies to improve efficiency!
 
-## My Self-learning TESTIMONIAL:
+## 🏅My Self-learning TESTIMONIAL:
 <!DOCTYPE html>
 <html>
 <head>
