@@ -94,7 +94,7 @@ Get the most out of Confluence <br/>
     </td>
     <td>
 DevOps 101: What is DevOps? <br/>
-<a href="https://www.linkedin.com/in/truongtanlocbf/" target="_blank">
+<a href="https://simpli-web.app.link/e/TBBbNNcDMOb" target="_blank">
     View Certificate
     </td>
 </tr>
