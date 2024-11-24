@@ -249,6 +249,21 @@ Get the most out of Loom <br/>
         View Certificate 
         </td>
     </tr>
+       <!--SQL-->
+      <tr style="text-align: center; vertical-align: middle">
+        <td>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/2560px-Sql_data_base_with_logo.svg.png"
+    width="110" height="auto">   
+        </td>
+        <td>
+            Certificate
+        </td>
+        <td>
+    SQL for Data Science <br/>
+    <a href="https://www.mygreatlearning.com/certificate/NMHKDFCG" target="_blank">
+        View Certificate 
+        </td>
+    </tr>
     </table>
 </body>
 </html>
