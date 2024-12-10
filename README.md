@@ -251,11 +251,11 @@ Get the most out of Loom <br/>
     </tr>
        <!--SQL-->
       <tr style="text-align: center; vertical-align: middle">
-        <td>
+        <td rowspan="2">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/2560px-Sql_data_base_with_logo.svg.png"
     width="110" height="auto">   
         </td>
-        <td>
+        <td rowspan="2">
             Certificate
         </td>
         <td>
