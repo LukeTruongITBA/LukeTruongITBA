@@ -264,6 +264,11 @@ Get the most out of Loom <br/>
         View Certificate 
         </td>
     </tr>
+       <td>
+     SQL for Data Analysis, Hands-on industry skills for analysts <br/>
+    <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-1404702c-c26c-4f7e-92f8-81f3d5fa3862.pdf" target="_blank">
+        View Certificate 
+        </td>
     </table>
 </body>
 </html>
