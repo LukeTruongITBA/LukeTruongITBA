@@ -2,6 +2,43 @@
 # 💫 About Me:
 🎯 I’m currently working on: Enhancing my skills as an IT Business Analyst Intern by contributing to projects focused on requirement gathering and process analysis.<br><br>🤝 I’m looking to collaborate on: Business analysis projects that involve data visualization, process mapping, or any IT initiatives requiring analytical insights.<br><br>🙏 I’m looking for help with: Learning advanced techniques in database management (DBeaver) and mastering diagramming tools like Mermaid for effective documentation.<br><br>🌱 I’m currently learning: The core practices of IT Business Analysis, including requirement elicitation, process modeling, and stakeholder communication.<br><br>💬 Ask me about: How my experience in Email Marketing helped me discover my passion for IT Business Analysis and problem-solving in the tech space.<br><br>⚡ Fun fact: I enjoy turning complex business problems into streamlined processes and am always eager to explore new tools and methodologies to improve efficiency!
 
+## LANGUAGES & OFFICE INFORMATICS TESTIMONIALS:
+<!DOCTYPE html>
+<html>
+<head></head>
+  <body>
+<table >
+  <tr>
+    <th>
+      LANGUAGES
+    </th>
+    <th>
+      OFFICE INFORMATICS
+    </th>
+  </tr>
+  <tr>
+    <td> 
+      <b>IELTS</b><br/>
+      <a href="###">YET TO TAKE THE EXAM
+    </td>
+        <td>
+          <b>MOS 2019 - Specialist (Excel, PowerPoint, Word)</b><br/><br/>
+          <ul>
+            <li>
+              <a href="https://drive.google.com/file/d/1rnC1PK2j1I24autEi6BvRgY-cddZyQJV/view?usp=drive_link">Microsoft Word Specialist 2019
+            </li>
+                <li>
+                  <a href="https://drive.google.com/file/d/1TN832cmXFVfkZ3YanzB-_kt6zXnSDG6T/view?usp=drive_link">Microsoft Excel Specialist 2019
+                </li>
+                    <li>
+                      <a href="https://drive.google.com/file/d/1e5a2WhTt1xKRe6fXycLhfI3MVJ0bRFas/view?usp=drive_link">Microsoft PowerPoint Specialist 2019
+                    </li>
+          </ul>
+                        <img src="https://drive.google.com/file/d/1MyP03cWNJAw1dU0HLNUKzuPd0o6BtnFQ/view?usp=sharing" width="100" heigth=auto>
+        </td>
+  </tr>
+</table>
+  </body>
 ## 🏅My Self-learning TESTIMONIAL:
 <!DOCTYPE html>
 <html>
