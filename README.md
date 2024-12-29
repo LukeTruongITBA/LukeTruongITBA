@@ -252,7 +252,7 @@ Get the most out of Loom <br/>
        <!--SQL-->
       <tr style="text-align: center; vertical-align: middle">
         <td rowspan="4">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/2560px-Sql_data_base_with_logo.svg.png"
+    <img src="https://media1.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif?cid=6c09b952wkgngp4aplstgi2ss1is3al7e1s4gefywtc0hwmo&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"
     width="110" height="auto">   
         </td>
         <td rowspan="4">
