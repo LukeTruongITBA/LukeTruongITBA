@@ -288,7 +288,7 @@ Get the most out of Loom <br/>
        <!--Excel-->
       <tr>
         <td>
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" width=50px heigth=auto>
+          <img src="https://media1.giphy.com/media/xvBv5pU4djudjF0ri8/giphy.gif?cid=6c09b952zktofyrqrdb32el0v1lu94odqica5i06px77thug&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=200px heigth=auto>
         </td>
         <td>
           Certificate
