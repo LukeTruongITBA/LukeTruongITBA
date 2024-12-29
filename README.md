@@ -34,7 +34,6 @@
                       <a href="https://drive.google.com/file/d/1e5a2WhTt1xKRe6fXycLhfI3MVJ0bRFas/view?usp=drive_link">Microsoft PowerPoint Specialist 2019
                     </li>
           </ul>
-                        <img src="https://drive.google.com/file/d/1MyP03cWNJAw1dU0HLNUKzuPd0o6BtnFQ/view?usp=sharing" width="100" heigth=auto>
         </td>
   </tr>
 </table>
