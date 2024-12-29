@@ -251,11 +251,11 @@ Get the most out of Loom <br/>
     </tr>
        <!--SQL-->
       <tr style="text-align: center; vertical-align: middle">
-        <td rowspan="2">
+        <td rowspan="4">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/2560px-Sql_data_base_with_logo.svg.png"
     width="110" height="auto">   
         </td>
-        <td rowspan="2">
+        <td rowspan="4">
             Certificate
         </td>
         <td>
@@ -264,12 +264,28 @@ Get the most out of Loom <br/>
         View Certificate 
         </td>
     </tr>
-       <td>
+      <tr>
+          <td>
      SQL for Data Analysis, Hands-on industry skills for analysts <br/>
     <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-1404702c-c26c-4f7e-92f8-81f3d5fa3862.pdf" target="_blank">
         View Certificate 
         </td>
-       <!--SQL-->
+       </tr>
+      <tr>
+        <td>
+     PostgreSQL Bootcamp : Complete Beginner to Advanced Course <br/>
+    <a href="https://www.udemy.com/certificate/UC-f6f33129-d384-4141-a4f8-c880af5df82e/" target="_blank">
+        View Certificate 
+        </td>
+      </tr>
+      <tr>
+        <td>
+      The Complete MySQL Bootcamp: Go from Beginner to Expert  <br/>
+    <a href="https://www.udemy.com/certificate/UC-1851602a-ec63-4330-b7c1-633e98a8c452/" target="_blank">
+        View Certificate 
+        </td>
+     </tr>
+       <!--Excel-->
       <tr>
         <td>
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" width=50px heigth=auto>
