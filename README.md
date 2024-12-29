@@ -46,7 +46,7 @@
 <html>
   <head></head>
   <body>
-    <table>
+    <table style="text-align: center; vertical-align: middle;">
       <tr>
         <th>TOOL</th>
         <th>TITLE</th>
@@ -65,9 +65,33 @@ This project is my first step into the world of Business Analysis and software d
           </p>
         </td>
         <td>
-          <a href="https://luketruongitba.github.io/nuterizeai/"><h3>Click here to Find out</h3>
+          <a href="https://luketruongitba.github.io/nuterizeai/" target="_blank">Click here to Find out
         </td>
       </tr>
+            <tr>
+              <td>
+                <h1>FIGMA</h1>
+              </td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+           <tr>
+              <td>
+                <h1>BALSAMIQ</h1>
+              </td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <tr>
+              <td>
+                <h1>ADOBE XD</h1>
+              </td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            </tr>
     </table>
   </body>
 </html>
