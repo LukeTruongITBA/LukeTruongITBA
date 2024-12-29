@@ -41,6 +41,37 @@
   </body>
 </html>
                         
+## 🏅Hand-On Projects: 
+<!DOCTYPE html>
+<html>
+  <head></head>
+  <body>
+    <table>
+      <tr>
+        <th>TOOL</th>
+        <th>TITLE</th>
+        <th>RECAPITULATION</th>
+        <th>PROJECT</th>
+      </tr>
+      <tr>
+        <td>
+          <h1>POSTMAN API</h1>
+        <td>
+          <b>Project-Based Learning: Build an AI Text Summarizer app</b>
+        </td>
+        <td>
+          <p>
+This project is my first step into the world of Business Analysis and software development. I designed an AI-powered Text Summarizer application using Postman, showcasing my skills in API integration, data handling, and user-centric design.
+          </p>
+        </td>
+        <td>
+          <a href="https://luketruongitba.github.io/nuterizeai/"><h3>Click here to Find out</h3>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
+                        
 ## 🏅My Self-learning TESTIMONIAL:
 <!DOCTYPE html>
 <html>
