@@ -7,7 +7,7 @@
 <html>
 <head></head>
   <body>
-<table >
+<table  >
   <tr>
     <th>
       LANGUAGES
