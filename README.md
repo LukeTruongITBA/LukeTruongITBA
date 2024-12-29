@@ -269,6 +269,19 @@ Get the most out of Loom <br/>
     <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-1404702c-c26c-4f7e-92f8-81f3d5fa3862.pdf" target="_blank">
         View Certificate 
         </td>
+       <!--SQL-->
+      <tr>
+        <td>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" width=50px heigth=auto>
+        </td>
+        <td>
+          Certificate
+        </td>
+        <td>
+           The Complete Microsoft Excel Course 2024 <br/>
+          <a href="https://www.udemy.com/certificate/UC-de6d8239-1b8c-4a62-b674-cf2692dcd9dc/" target="blank">View Certificate
+        </td>
+      </tr>
     </table>
 </body>
 </html>
