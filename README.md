@@ -1,4 +1,45 @@
-![Profile_Banner](https://media.licdn.com/dms/image/v2/D5616AQEIUZFVGpyT9w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729241520077?e=1741219200&v=beta&t=OjwOh7LJvKJ0HTGFPvErUIG1jTSohH5ksx8f0u5X4VQ)
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <table border="1" width="100%" cellspacing="0" cellpadding="5">
+        <!-- First row with colspan -->
+        <tr>
+            <td colspan="2">
+                <img src="https://media.licdn.com/dms/image/v2/D5616AQEIUZFVGpyT9w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729241520077?e=1741219200&v=beta&t=OjwOh7LJvKJ0HTGFPvErUIG1jTSohH5ksx8f0u5X4VQ" alt="Large Graphic" width="100%">
+            </td>
+        </tr>
+        <!-- Second row with rowspan and graphic -->
+        <tr>
+            <td rowspan="3" width="50%">
+                Text content here. This spans multiple rows.
+            </td>
+            <td>
+                <img src="https://scontent.fhan3-3.fna.fbcdn.net/v/t39.30808-6/348452102_801956364398427_1044248050296844153_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGZNw2Nv0f4IxVAcw7yNL_PrwWXo-UajjCvBZej5RqOMH5rCNv_-kBaFXdCI4qPB8lrSeuoDIcGm120EXqc4V0W&_nc_ohc=2ZqKs-fePsIQ7kNvgFAmkvc&_nc_oc=AdjjJIZj3JPdime-t6X8clEbKpcxQXfeD3lMkP2Ck5RkkP-0zx09EMG6n9lCA27UDHs&_nc_zt=23&_nc_ht=scontent.fhan3-3.fna&_nc_gid=AEa9RTUsjWhPPLU7V8CMi7O&oh=00_AYAoUB6169PWUcIZu1wDvMeX3spafX_9dTtWuIAYR_kx6A&oe=6778A720" width="100%">
+            </td>
+        </tr>
+        <!-- Third row -->
+        <tr>
+            <td>
+                <img src="https://scontent.fhan3-3.fna.fbcdn.net/v/t39.30808-6/348629231_6518000224906152_1515851221129913388_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHWYQciVUsJE2zDSSnLp-6Bc-unN1QUEBpz66c3VBQQGnIaUCfK5KHtM-OmOvqKwf272J6EarkNeWN06AwEuu0g&_nc_ohc=JcGtcvzFHb0Q7kNvgGkW9WD&_nc_oc=AdgUUbImJF8nE37amC_gzSj0PMoOPm5eZFrbB2Mk7BzT-m1ikoWiUMrcGWDR5bBBxzs&_nc_zt=23&_nc_ht=scontent.fhan3-3.fna&_nc_gid=AI9NkC5KeGPeY3uxdJIeCBp&oh=00_AYCVtZtPwfI7ESv3Ho1GGNyxB-dHi0g9yIeG9-qzTJL8tQ&oe=67788E29" width="100%">
+            </td>
+        </tr>
+        <!-- Fourth row -->
+        <tr>
+            <td>
+                <img src="https://media.licdn.com/dms/image/v2/D5622AQExjs6r1pR5yw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1716604705828?e=1738195200&v=beta&t=Z1NNYsR2hF9SKD4L4YZgPCia1z7rosIIUqyTi9_v2Es" width="100%">
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
+
+
+
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1689486594104/0883007c-df25-4d04-90f9-16a033cece42.gif" width=100% heigth=auto>
 # 💫 About Me:
 🎯 I’m currently working on: Enhancing my skills as an IT Business Analyst Intern by contributing to projects focused on requirement gathering and process analysis.<br><br>🤝 I’m looking to collaborate on: Business analysis projects that involve data visualization, process mapping, or any IT initiatives requiring analytical insights.<br><br>🙏 I’m looking for help with: Learning advanced techniques in database management (DBeaver) and mastering diagramming tools like Mermaid for effective documentation.<br><br>🌱 I’m currently learning: The core practices of IT Business Analysis, including requirement elicitation, process modeling, and stakeholder communication.<br><br>💬 Ask me about: How my experience in Email Marketing helped me discover my passion for IT Business Analysis and problem-solving in the tech space.<br><br>⚡ Fun fact: I enjoy turning complex business problems into streamlined processes and am always eager to explore new tools and methodologies to improve efficiency!
