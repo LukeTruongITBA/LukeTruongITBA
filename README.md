@@ -423,11 +423,11 @@ Get the most out of Loom <br/>
         </td>
      </tr>
        <!--Excel-->
-      <tr>
-        <td>
+      <tr >
+        <td rowspan=3>
           <img src="https://media1.giphy.com/media/xvBv5pU4djudjF0ri8/giphy.gif?cid=6c09b952zktofyrqrdb32el0v1lu94odqica5i06px77thug&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=200px heigth=auto>
         </td>
-        <td>
+        <td rowspan=3>
           Certificate
         </td>
         <td>
@@ -435,6 +435,18 @@ Get the most out of Loom <br/>
           <a href="https://www.udemy.com/certificate/UC-de6d8239-1b8c-4a62-b674-cf2692dcd9dc/" target="blank">View Certificate
         </td>
       </tr>
+    <tr>
+       <td>
+           Excel VBA for Beginner to Advanced <br/>
+          <a href="https://www.udemy.com/certificate/UC-916f9a07-457f-4f2f-bb1d-9626339f75db/" target="blank">View Certificate
+        </td>
+    </tr>
+              <tr>
+                  <td>
+           Master all the MS Excel Macros and the basics of Excel VBA <br/>
+          <a href="https://www.udemy.com/certificate/UC-eebda833-dc25-4682-b423-872777a996a8/" target="blank">View Certificate
+        </td>
+              </tr>
     </table>
 </body>
 </html>
