@@ -51,7 +51,7 @@ Through these endeavors, I discovered my passion for <u>Business Analysis (BA)</
 <html>
 <head></head>
   <body>
-<table  >
+<table style="text-align: center; vertical-align: middle;" >
   <tr>
     <th>
       LANGUAGES
