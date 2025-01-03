@@ -15,7 +15,6 @@
         <!-- Second row with rowspan and graphic -->
         <tr>
             <td rowspan="3" width="50%">  <video src="https://github.com/user-attachments/assets/a3abcb05-befb-41ef-b8e6-1b0ae6fd762d"  autoplay 
-       muted 
        loop 
        controls 
        style="width: 50%; height: auto;"></video>
