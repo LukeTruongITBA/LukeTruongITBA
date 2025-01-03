@@ -14,7 +14,11 @@
         </tr>
         <!-- Second row with rowspan and graphic -->
         <tr>
-            <td rowspan="3" width="50%">  <video src="https://github.com/user-attachments/assets/a3abcb05-befb-41ef-b8e6-1b0ae6fd762d"></video>
+            <td rowspan="3" width="50%">  <video src="https://github.com/user-attachments/assets/a3abcb05-befb-41ef-b8e6-1b0ae6fd762d"  autoplay 
+       muted 
+       loop 
+       controls 
+       style="width: 50%; height: auto;"></video>
              <h2><b>Read about me First!</b></h2> 
 <p>Hello, I'm <b>Loc</b> (Luke in English), an autodidact majoring in <b>Management Information Systems (MIS)</b> at Ho Chi Minh University of Banking, with a minor in <b>E-Commerce Management</b>. I'm passionate about extracurricular activities and have undertaken several short-term internships at SMEs since the end of my first university academic year. These experiences have helped me develop essential <u>soft skills</u> and explore potential career paths. 
 
