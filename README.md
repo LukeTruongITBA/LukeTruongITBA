@@ -14,8 +14,8 @@
         </tr>
         <!-- Second row with rowspan and graphic -->
         <tr>
-            <td rowspan="3" width="50%">
-             <h2><b>Read about me First!</b></h2>
+            <td rowspan="3" width="50%"> <video src="https://github-production-user-asset-6210df.s3.amazonaws.com/187422637/399886050-6356485c-b19a-43f4-a483-e0ca0e6c1b59.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250103%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250103T072749Z&X-Amz-Expires=300&X-Amz-Signature=f6784545a71f3cdab39c4c66307168a25f82e3e336f5d1a48dadc954f3837aa8&X-Amz-SignedHeaders=host" width=20% heigth=auto></video>
+             <h2><b>Read about me First!</b></h2> 
 <p>Hello, I'm <b>Loc</b> (Luke in English), an autodidact majoring in <b>Management Information Systems (MIS)</b> at Ho Chi Minh University of Banking, with a minor in <b>E-Commerce Management</b>. I'm passionate about extracurricular activities and have undertaken several short-term internships at SMEs since the end of my first university academic year. These experiences have helped me develop essential <u>soft skills</u> and explore potential career paths. 
 
 Through these endeavors, I discovered my passion for <u>Business Analysis (BA)</u>, which I believe is my right path. I am committed to making incremental progress daily to pursue my aspiration of becoming a <b>BA professor</b> in the future. I have been training myself and accumulating domain knowledge in BA through <b>self-learning</b> and reading books. I am eager to find a <b>BA internship</b> soon to further enhance my skills and experience! 🚀📚</p> ![Green Yellow Modern Home Renovation Services](https://github.com/LukeTruongITBA/LukeTruongITBA/blob/main/Green%20Yellow%20Modern%20Home%20Renovation%20Services%20Animated%20Social%20Media.gif?raw=true)
