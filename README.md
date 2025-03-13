@@ -9,7 +9,7 @@
         <!-- First row with colspan -->
         <tr>
             <td colspan="2">
-                <img src="https://media.licdn.com/dms/image/v2/D5616AQEIUZFVGpyT9w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729241520077?e=1741219200&v=beta&t=OjwOh7LJvKJ0HTGFPvErUIG1jTSohH5ksx8f0u5X4VQ" alt="Large Graphic" width="100%">
+                <img src="https://media.licdn.com/dms/image/v2/D5616AQEIUZFVGpyT9w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729241520077?e=1747267200&v=beta&t=0mg9XFpNugQCDDo1T6JKmSprGYPeV4Mt3uJznGgYiiY" alt="Large Graphic" width="100%">
             </td>
         </tr>
         <!-- Second row with rowspan and graphic -->
@@ -24,19 +24,19 @@
 Through these endeavors, I discovered my passion for <u>Business Analysis (BA)</u>, which I believe is my right path. I am committed to making incremental progress daily to pursue my aspiration of becoming a <b>BA professor</b> in the future. I have been training myself and accumulating domain knowledge in BA through <b>self-learning</b> and reading books. I am eager to find a <b>BA internship</b> soon to further enhance my skills and experience! 🚀📚</p> ![Green Yellow Modern Home Renovation Services](https://github.com/LukeTruongITBA/LukeTruongITBA/blob/main/Green%20Yellow%20Modern%20Home%20Renovation%20Services%20Animated%20Social%20Media.gif?raw=true)
             </td>
             <td>
-                <img src="https://scontent.fhan3-3.fna.fbcdn.net/v/t39.30808-6/348452102_801956364398427_1044248050296844153_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGZNw2Nv0f4IxVAcw7yNL_PrwWXo-UajjCvBZej5RqOMH5rCNv_-kBaFXdCI4qPB8lrSeuoDIcGm120EXqc4V0W&_nc_ohc=2ZqKs-fePsIQ7kNvgFAmkvc&_nc_oc=AdjjJIZj3JPdime-t6X8clEbKpcxQXfeD3lMkP2Ck5RkkP-0zx09EMG6n9lCA27UDHs&_nc_zt=23&_nc_ht=scontent.fhan3-3.fna&_nc_gid=AEa9RTUsjWhPPLU7V8CMi7O&oh=00_AYAoUB6169PWUcIZu1wDvMeX3spafX_9dTtWuIAYR_kx6A&oe=6778A720" width="100%">
+                <img src="https://scontent.fhan4-3.fna.fbcdn.net/v/t39.30808-6/481167770_1049760343862648_2121865745660975099_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGQD5QGI0BiFVBDkxNQUy8vfHTYkKwC62V8dNiQrALrZU74KauGarukE8qCGC7iWNNKAuDoHtbRRBqWqOl-dfPY&_nc_ohc=b-I65nD9T6sQ7kNvgGGJVcx&_nc_oc=Adg5yHnW_2iNaJcTvpKxggnP2q0DEDzPKXck8VKth1BtSTpCVS9KaragLVBFjznIUkc&_nc_zt=23&_nc_ht=scontent.fhan4-3.fna&_nc_gid=AogOUA4ASu8QHWo4AjjF5Tf&oh=00_AYHWqHVnj5O0RdjlnQ9NmIWuoS9lccUiUEtB0vNzCqfsHw&oe=67D831B8" width="100%">
             </td>
         </tr>
         <!-- Third row -->
         <tr>
             <td>
-                <img src="https://scontent.fhan3-3.fna.fbcdn.net/v/t39.30808-6/348629231_6518000224906152_1515851221129913388_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHWYQciVUsJE2zDSSnLp-6Bc-unN1QUEBpz66c3VBQQGnIaUCfK5KHtM-OmOvqKwf272J6EarkNeWN06AwEuu0g&_nc_ohc=JcGtcvzFHb0Q7kNvgGkW9WD&_nc_oc=AdgUUbImJF8nE37amC_gzSj0PMoOPm5eZFrbB2Mk7BzT-m1ikoWiUMrcGWDR5bBBxzs&_nc_zt=23&_nc_ht=scontent.fhan3-3.fna&_nc_gid=AI9NkC5KeGPeY3uxdJIeCBp&oh=00_AYCVtZtPwfI7ESv3Ho1GGNyxB-dHi0g9yIeG9-qzTJL8tQ&oe=67788E29" width="100%">
+                <img src="https://scontent.fhan3-3.fna.fbcdn.net/v/t39.30808-6/480185714_1040902471390631_8040849590192367203_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGy8egtc1iDDjnld0uGp_YwFMNAC8lGGWgUw0ALyUYZaP2aczE4FuaaLDa1XdmBhlQtGk83EmcrTDrBzZdsz5n5&_nc_ohc=Pv5xjVYfsJYQ7kNvgHTnss_&_nc_oc=AdiBPaJ2XjHZYxeho7Xkf8zXAVm23qavipu9txU8Hg1JB_v87VG7VbNoWH1bZsOcnag&_nc_zt=23&_nc_ht=scontent.fhan3-3.fna&_nc_gid=AmcOy09uey8Ty2Ur-gWTqSJ&oh=00_AYHUphjYbWkb0Kh6s6M5u2P8J0AG5HnJi9fjfSHmSetNEg&oe=67D837CF" width="100%">
             </td>
         </tr>
         <!-- Fourth row -->
         <tr>
             <td>
-                <img src="https://media.licdn.com/dms/image/v2/D5622AQExjs6r1pR5yw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1716604705828?e=1738195200&v=beta&t=Z1NNYsR2hF9SKD4L4YZgPCia1z7rosIIUqyTi9_v2Es" width="100%">
+                <img src="https://scontent.fhan3-4.fna.fbcdn.net/v/t39.30808-6/481164223_1049100777261938_3533406934573514031_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGp7KY8BVL1ERGd_GvT5sfAiiefwcyHXlSKJ5_BzIdeVH4f3y02ObPhQ-xWFkACRJdIgF0NNx1AuFh5E0gygKAz&_nc_ohc=pP-hjtQ2rtYQ7kNvgGj9p75&_nc_oc=Adi-y5UKbB5fr8_UDbR7D1UQP-04n9ZnYtbIfQxmELgOIhq8wu6Q4BHby91KDOsb21Y&_nc_zt=23&_nc_ht=scontent.fhan3-4.fna&_nc_gid=Ab7tFgwvePdESscXwIoayft&oh=00_AYHhEKwxG7MFrW94nkPeURzHLXMsE5UNCKMrwTM9_jJgGQ&oe=67D80706" width="100%">
             </td>
         </tr>
     </table>
